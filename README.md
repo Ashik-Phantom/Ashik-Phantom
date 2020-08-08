@@ -1,7 +1,7 @@
 # Ashik
 ```diff
 + Aspiring Data scientist
-+ Love to Designing and Develope
++ Love to Design and Develope
 ```
 ### Connect me :
 [<img align="left" alt="Arsive | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
