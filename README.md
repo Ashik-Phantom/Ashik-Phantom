@@ -15,7 +15,7 @@
 |:---:|:---:|  
 
 ### Tools using :hammer:
-|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> |<img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width=60> | <img src="https://spng.subpng.com/20180410/fpe/kisspng-atom-computer-icons-text-editor-electron-macos-github-5accac2c064a08.4880956715233628600258.jpg" width=60>|  <img src="https://cdn.iconscout.com/icon/free/png-256/figma-1693589-1442630.png" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-stable.png?alt=media&token=88a7cb79-fe86-46ab-b691-05d210131a99" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Geany_logo.svg" width=60 > |
+|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=75> |<img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width=55> | <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Atom_1.0_icon.png" width=75>|  <img src="https://cdn.iconscout.com/icon/free/png-256/figma-1693589-1442630.png" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-stable.png?alt=media&token=88a7cb79-fe86-46ab-b691-05d210131a99" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Geany_logo.svg" width=60 > |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Phantom&layout=compact) 
@@ -23,7 +23,7 @@
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashik-Phantom&repo=Automated-vehicle-and-warning-system&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Ashik-Phantom/Automated-vehicle-and-warning-system)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Ashik-Phantom&repo=Average-to-hard-level-programs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Ashik-Phantom/Average-to-hard-level-programs)
 <br />
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Arsive02&repo=PythonProjects&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Arsive02/PythonProjects)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Ashik-Phantom&repo=Web-designing-practice&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Ashik-Phantom/Web-designing-practice)
 
 <br />
 
