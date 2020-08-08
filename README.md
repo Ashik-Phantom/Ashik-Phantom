@@ -1,13 +1,13 @@
-# Hi there, I'm Ashik
+<h1> Hi there, I'm Ashik </h1>
 
-- ⭐ Aspiring Data Scientist
-- 🧑‍💻 I’m currently learning Web development and Data science 
-- 💬 Ask me about Python 
-- :heart: I spend most of my time coding and watching anime or series. 
-- 🎮 I do play games at my free time
+- <i>  ⭐ Aspiring Data Scientist </i>
+- <i> 💻 I’m currently learning Web development and Data science </i>
+- <i>💬 Ask me about Python </i>
+- <i> :heart: I spend most of my time coding and watching anime or series. </i>
+- <i> 🎮 I do play games at my free time </i>
 
 ### Programming Languages  :rocket:
-|<img src="https://img.icons8.com/color/60/000000/python.png"/> | <img src="https://img.icons8.com/color/60/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ff1eaa7278f64e27128e062a3de918265.png?alt=media&token=a05e0358-a919-4c27-bb1a-1aa03d07183d" width=60> |   <img src="https://img.icons8.com/color/60/000000/c-sharp-logo-2.png"/> |
+|<img src="https://img.icons8.com/color/60/000000/python.png"/>  | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ff1eaa7278f64e27128e062a3de918265.png?alt=media&token=a05e0358-a919-4c27-bb1a-1aa03d07183d" width=60> | <img src="https://img.icons8.com/color/60/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/> |  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width=60 /> |
 |:---:|:---:|:---:|:---:|:---:|
 
 ### Web designing languages :framed_picture:
