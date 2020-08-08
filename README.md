@@ -3,7 +3,7 @@
 - ⭐ Aspiring Data Scientist
 - 🧑‍💻 I’m currently learning Web development and Data science 
 - 💬 Ask me about Python 
-- ⚡ I spend most of my time coding and watching anime or series. 
+- :heart: I spend most of my time coding and watching anime or series. 
 - 🎮 I do play games at my free time
 
 ### Programming Languages  :rocket:
