@@ -10,9 +10,13 @@
 |<img src="https://img.icons8.com/color/60/000000/python.png"/> | <img src="https://img.icons8.com/color/60/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ff1eaa7278f64e27128e062a3de918265.png?alt=media&token=a05e0358-a919-4c27-bb1a-1aa03d07183d" width=60> |   <img src="https://img.icons8.com/color/60/000000/c-sharp-logo-2.png"/> |
 |:---:|:---:|:---:|:---:|:---:|
 
-### Web designing lenguages :framed_picture:
+### Web designing languages :framed_picture:
 |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-html-5.png?alt=media&token=433bba37-6049-47d4-8cb6-4498d7886ff1" width=60> | <img src="https://www.pngkit.com/png/detail/800-8001116_html-css-js-icons.png" width=60> |
-|:---:|:---:| 
+|:---:|:---:|  
+
+### Tools using :hammer:
+|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> |<img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" width=60> | <img src="https://spng.subpng.com/20180410/fpe/kisspng-atom-computer-icons-text-editor-electron-macos-github-5accac2c064a08.4880956715233628600258.jpg" width=60>|  <img src="https://cdn.iconscout.com/icon/free/png-256/figma-1693589-1442630.png" width=60> | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" width=60> |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-stable.png?alt=media&token=88a7cb79-fe86-46ab-b691-05d210131a99" width=60> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Geany_logo.svg" width=60 > |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Phantom&layout=compact) 
 
