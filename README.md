@@ -14,15 +14,20 @@
 |<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flogo-html-5.png?alt=media&token=433bba37-6049-47d4-8cb6-4498d7886ff1" width=60> | <img src="https://www.pngkit.com/png/detail/800-8001116_html-css-js-icons.png" width=60> |
 |:---:|:---:| 
 
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashik-Phantom&layout=compact)
+
+
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/mohamed-ashik-badusha/">
-  <img align="left" alt="Aditya Kamath Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
+  <img align="left" alt="Ashik Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />
 </a>
 <a href=" https://www.instagram.com/P.u.b.g_tamil/">
-  <img align="left" alt="Aditya Kamath Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
+  <img align="left" alt="Ashik Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
 </a>
-<br />
-<img align="left" alt="Ashik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ashik-Phantom&show_icons=true&hide_border=true" /> 
 
+<br /> 
 
+![Ashik's github stats](https://github-readme-stats.vercel.app/api?username=Ashik-Phantom&show_icons=true&theme=radical)
