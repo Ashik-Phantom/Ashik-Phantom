@@ -22,6 +22,8 @@
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashik-Phantom&repo=Automated-vehicle-and-warning-system&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Ashik-Phantom/Automated-vehicle-and-warning-system)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Ashik-Phantom&repo=Average-to-hard-level-programs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Ashik-Phantom/Average-to-hard-level-programs)
+<br \>
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Arsive02&repo=Multiliingual-code&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Arsive02/Multilingual-code)
 
 <br />
 
