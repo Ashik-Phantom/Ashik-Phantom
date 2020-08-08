@@ -38,6 +38,6 @@
   <img align="left" alt="Ashik Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
 </a> 
 <a href="https://github.com/Ashik-Phantom"> 
-  <img align="left" alt="Ashik Github" width"21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" />
+  <img align="left" alt="Ashik Github" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F25231.svg?alt=media&token=ef2be627-04a6-4f80-afba-bf224281d35a" />
 </a>
 
