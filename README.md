@@ -18,7 +18,10 @@
 
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin/?username=Ashik-Phantom&repo=Automated-vehicle-and-warning-system&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Ashik-Phantom/Automated-vehicle-and-warning-system)
 [![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=Ashik-Phantom&repo=Average-to-hard-level-programs&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Ashik-Phantom/Average-to-hard-level-programs)
+
 <br />
+
+![Ashik's github stats](https://github-readme-stats.vercel.app/api?username=Ashik-Phantom&show_icons=true&theme=radical)
 
 ### Connect with me :smiley:
 
@@ -29,8 +32,3 @@
   <img align="left" alt="Ashik Instagram" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Finstagram-sketched.svg?alt=media&token=ecd87a7d-17b0-464e-8c4f-ec446b86fd51" />
 </a>
 
-<br />
-<br /> 
-<br />
-
-![Ashik's github stats](https://github-readme-stats.vercel.app/api?username=Ashik-Phantom&show_icons=true&theme=radical)
