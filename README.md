@@ -7,7 +7,7 @@
 - <i> 🎮 I do play games at my free time </i>
 
 ### Programming Languages  :rocket:
-|<img src="https://img.icons8.com/color/60/000000/python.png"/>  | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ff1eaa7278f64e27128e062a3de918265.png?alt=media&token=a05e0358-a919-4c27-bb1a-1aa03d07183d" width=60> | <img src="https://img.icons8.com/color/60/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/> |  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width=60 /> | <imd src="https://lh3.googleusercontent.com/proxy/6n-z-0KPK4da76oUcCMUw67s1LGpefIcL3dTdL35FVesvJLXhMhIAbfGdrpZ-kHW6fisipw3W08kWsu3QUPPe5V_qgaJDAyqg6cz020LaRiI0gf-ei4">|
+|<img src="https://img.icons8.com/color/60/000000/python.png"/>  | <img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ff1eaa7278f64e27128e062a3de918265.png?alt=media&token=a05e0358-a919-4c27-bb1a-1aa03d07183d" width=60> | <img src="https://img.icons8.com/color/60/000000/c-programming.png"/> | <img src="https://img.icons8.com/color/60/000000/c-plus-plus-logo.png"/> |  <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width=60 /> | <img src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg" width=70/>|
 |:---:|:---:|:---:|:---:|:---:|:--:|
 
 ### Web designing languages :framed_picture:
